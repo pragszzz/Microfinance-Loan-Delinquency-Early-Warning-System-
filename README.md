@@ -117,6 +117,20 @@ app/app.py  (Streamlit — 6 pages)
 5. **Stress Test Dashboard** — Stacked bars, delinquency line chart, migration matrix
 6. **Fairness Report** — Side-by-side fairness metrics, honest tradeoff documentation
 
+## Dashboard Screenshots
+
+### Portfolio Overview
+![Portfolio Overview](docs/screenshots/portfolio_overview.png)
+
+### Borrower Explorer
+![Borrower Explorer](docs/screenshots/borrower_explorer.png)
+
+### Borrower Detail
+![Borrower Detail](docs/screenshots/borrower_detail.png)
+
+### What-If Simulator
+![What-If Simulator](docs/screenshots/what_if_simulator.png)
+
 ## Loan Simulation Design
 
 | Parameter | Value |
