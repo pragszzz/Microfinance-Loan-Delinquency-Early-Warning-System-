@@ -131,6 +131,13 @@ app/app.py  (Streamlit — 6 pages)
 ### What-If Simulator
 ![What-If Simulator](docs/screenshots/what_if_simulator.png)
 
+### Stress Test Dashboard
+![Stress Test](docs/screenshots/stress_test.png)
+
+### Fairness Report
+![Fairness Report 1](docs/screenshots/fairness_report_1.png)
+![Fairness Report 2](docs/screenshots/fairness_report_2.png)
+
 ## Loan Simulation Design
 
 | Parameter | Value |
