@@ -1,5 +1,11 @@
 # Microfinance Loan Delinquency Early Warning System
 
+**Team Name:** Trust The Process  
+**Team Members:**  
+* Pragati  
+* Srijani Ray  
+* Sara Sharma  
+
 > **Research prototype** — Predicts borrower delinquency *before* it happens using pre-loan income behavior.
 > Simulated loan labels on real farmer income data. Not a production lending system.
 
