@@ -1,0 +1,10 @@
+{
+  "optimal_threshold": 0.05,
+  "total_cost_at_optimal": 206699.15,
+  "total_cost_at_default": 1161825.4749999999,
+  "cost_saving": 955126.3249999998,
+  "recall_at_optimal": 0.9843749999846191,
+  "precision_at_optimal": 0.29032258064382344,
+  "lgd_rate": 0.6,
+  "fp_cost_fixed": 500.0
+}

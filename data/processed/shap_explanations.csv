@@ -1,0 +1,254 @@
+farmer_id,primary_reason,secondary_reason,top_shap_feature,top_shap_value,second_shap_feat,second_shap_value
+531,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-0.45081,avg_lookback_income,-0.37764
+335,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.80896,avg_lookback_income,-0.58987
+385,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+926,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.38792,avg_lookback_income,-0.85292
+740,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+1078,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.27442,avg_lookback_income,-0.70649
+653,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.59916,income_trend_slope,0.58197
+604,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.98878,avg_lookback_income,-0.80731
+410,Highly irregular income pattern,Declining income trend before loan,income_volatility_cv,0.83401,income_trend_slope,-0.79569
+661,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.54053,income_volatility_cv,0.50951
+191,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.00479,avg_lookback_income,-1.0175
+1145,Stable income pattern (positive signal),Low income activity in pre-loan period,income_volatility_cv,-0.76225,active_weeks_pre_loan,-0.34767
+37,Low average income relative to installment,Low income activity in pre-loan period,avg_lookback_income,-0.43982,active_weeks_pre_loan,-0.33301
+221,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,1.1017,income_volatility_cv,0.69069
+443,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.33744,income_volatility_cv,-0.31647
+447,Income trending upward (positive signal),Low income activity in pre-loan period,income_trend_slope,0.46126,active_weeks_pre_loan,-0.28327
+67,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.95625,avg_lookback_income,-0.75432
+1263,Stable income pattern (positive signal),Strong average income relative to installment,income_volatility_cv,-1.72625,avg_lookback_income,0.19038
+725,Highly irregular income pattern,Strong average income relative to installment,income_volatility_cv,0.7383,avg_lookback_income,0.70179
+1233,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-0.24827,income_trend_slope,-0.22582
+451,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.89633,income_volatility_cv,-1.70506
+958,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-2.01983,avg_lookback_income,0.37967
+415,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.65636,income_volatility_cv,0.5191
+46,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-0.73231,avg_lookback_income,0.21379
+401,Highly irregular income pattern,Low average income relative to installment,income_volatility_cv,0.6738,avg_lookback_income,-0.33381
+681,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.45489,avg_lookback_income,-0.55332
+30,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-0.87748,income_volatility_cv,-0.71783
+14,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-2.23,income_volatility_cv,-0.69087
+1094,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-0.97698,income_volatility_cv,-0.3195
+217,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.61685,income_trend_slope,0.27687
+516,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.42284,avg_lookback_income,-0.8468
+730,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.58807,avg_lookback_income,0.81248
+99,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.30799,income_volatility_cv,-0.10503
+184,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-1.00078,income_volatility_cv,0.70961
+601,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.18154,income_volatility_cv,0.5511
+131,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.69171,income_volatility_cv,0.3804
+1059,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.59649,income_volatility_cv,-0.32076
+1141,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-0.37407,income_trend_slope,0.35813
+89,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.098,income_volatility_cv,-0.79366
+150,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.20463,avg_lookback_income,-0.34484
+1082,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.11422,income_volatility_cv,0.40523
+1052,Highly irregular income pattern,Strong average income relative to installment,income_volatility_cv,0.50806,avg_lookback_income,0.23399
+1024,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.30563,avg_lookback_income,-0.19449
+501,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-0.77715,income_trend_slope,-0.33317
+1098,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.80376,avg_lookback_income,-0.66026
+928,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.87774,avg_lookback_income,-0.75543
+755,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.13399,avg_lookback_income,-0.59093
+603,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.06585,avg_lookback_income,0.26275
+1234,Income trending upward (positive signal),Low income activity in pre-loan period,income_trend_slope,0.8578,active_weeks_pre_loan,-0.31498
+1089,Declining income trend before loan,Low income activity in pre-loan period,income_trend_slope,-2.32166,active_weeks_pre_loan,-0.2529
+137,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-1.01931,income_volatility_cv,-0.44589
+519,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.32472,avg_lookback_income,1.25984
+647,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-0.7382,income_trend_slope,-0.51533
+1201,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.94892,income_volatility_cv,-0.6035
+646,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+513,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.95664,avg_lookback_income,0.8016
+552,Stable income pattern (positive signal),Strong average income relative to installment,income_volatility_cv,-0.80874,avg_lookback_income,0.61857
+526,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-1.07661,income_volatility_cv,-0.69144
+597,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-1.06469,income_volatility_cv,-0.31153
+196,Strong average income relative to installment,Low income activity in pre-loan period,avg_lookback_income,0.65906,active_weeks_pre_loan,-0.16035
+806,Stable income pattern (positive signal),High weekly installment burden,income_volatility_cv,-0.57662,installment,0.13238
+966,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-2.39901,avg_lookback_income,0.45709
+957,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.59425,income_trend_slope,0.22326
+716,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-0.84718,income_volatility_cv,-0.45562
+637,Low average income relative to installment,Modest loan size (positive signal),avg_lookback_income,-0.71724,loan_amount,-0.25627
+123,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-0.90762,income_trend_slope,0.59885
+448,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+1102,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.7477,income_volatility_cv,-0.52182
+780,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-0.86565,avg_lookback_income,0.17683
+520,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.48045,avg_lookback_income,-0.79105
+125,Strong average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,0.79525,income_volatility_cv,-0.132
+49,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-2.06881,avg_lookback_income,-1.32304
+1112,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.16121,avg_lookback_income,-0.49052
+1015,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.3648,avg_lookback_income,-0.88003
+983,High income activity in pre-loan period (positive signal),Strong average income relative to installment,active_weeks_pre_loan,0.43241,avg_lookback_income,0.40056
+487,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-0.8905,avg_lookback_income,-0.72128
+232,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-0.86298,income_volatility_cv,-0.56409
+873,Stable income pattern (positive signal),Declining income trend before loan,income_volatility_cv,-2.18002,income_trend_slope,-1.14053
+991,Strong average income relative to installment,Low income activity in pre-loan period,avg_lookback_income,0.63784,active_weeks_pre_loan,-0.30449
+1010,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+434,Stable income pattern (positive signal),Declining income trend before loan,income_volatility_cv,-1.82462,income_trend_slope,-0.28848
+325,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.6455,income_volatility_cv,-0.25038
+441,Income trending upward (positive signal),Strong average income relative to installment,income_trend_slope,0.37775,avg_lookback_income,0.27034
+29,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.83032,avg_lookback_income,-0.31955
+1164,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.24433,avg_lookback_income,-0.42418
+412,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.85762,income_volatility_cv,0.54804
+959,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-1.04344,income_volatility_cv,-0.41095
+173,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.53003,avg_lookback_income,-0.20819
+48,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.67802,income_trend_slope,0.29797
+655,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,1.22466,income_trend_slope,0.86741
+626,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+135,Strong average income relative to installment,Income trending upward (positive signal),avg_lookback_income,0.54532,income_trend_slope,0.29525
+1256,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+253,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+270,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.28984,avg_lookback_income,-0.67972
+117,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.26788,avg_lookback_income,-0.74769
+808,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-2.57771,avg_lookback_income,-1.01063
+272,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.85596,income_volatility_cv,-0.54212
+404,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.192,avg_lookback_income,0.18663
+923,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-2.05607,income_volatility_cv,-0.41701
+897,Stable income pattern (positive signal),Low income activity in pre-loan period,income_volatility_cv,-1.77615,active_weeks_pre_loan,-0.31332
+538,Strong average income relative to installment,Large loan relative to income capacity,avg_lookback_income,0.71042,loan_amount,0.29119
+498,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.08877,avg_lookback_income,-0.86646
+1002,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.49442,income_trend_slope,0.47401
+281,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+181,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.72729,avg_lookback_income,-0.33374
+291,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-0.72253,income_trend_slope,0.2789
+976,Highly irregular income pattern,Declining income trend before loan,income_volatility_cv,0.71434,income_trend_slope,-0.45262
+558,Stable income pattern (positive signal),Declining income trend before loan,income_volatility_cv,-1.69071,income_trend_slope,-0.79442
+1101,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.79714,avg_lookback_income,-0.34714
+408,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.93681,income_volatility_cv,0.78894
+358,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.84448,income_volatility_cv,-0.48883
+735,Low income activity in pre-loan period,Low average income relative to installment,active_weeks_pre_loan,-0.1782,avg_lookback_income,-0.15668
+900,Strong average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,0.73786,income_volatility_cv,-0.30764
+961,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.71747,income_volatility_cv,0.22471
+156,Low average income relative to installment,Modest loan size (positive signal),avg_lookback_income,-0.92852,loan_amount,-0.33224
+38,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-0.29617,income_trend_slope,-0.17428
+145,Highly irregular income pattern,Declining income trend before loan,income_volatility_cv,0.52212,income_trend_slope,-0.37896
+791,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.90369,income_volatility_cv,-0.43198
+327,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.90481,avg_lookback_income,-0.69845
+738,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-2.43216,income_volatility_cv,-0.60914
+491,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-2.17377,income_volatility_cv,-0.67657
+665,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,1.0635,income_volatility_cv,-1.02
+354,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-0.96769,income_volatility_cv,-0.58589
+1068,Strong average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,0.45813,income_volatility_cv,-0.41408
+8,Strong average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,0.6234,income_volatility_cv,-0.37527
+313,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.86567,avg_lookback_income,0.41704
+5,Stable income pattern (positive signal),Low income activity in pre-loan period,income_volatility_cv,-0.42188,active_weeks_pre_loan,-0.27117
+853,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+727,Stable income pattern (positive signal),Strong average income relative to installment,income_volatility_cv,-1.89905,avg_lookback_income,0.60287
+709,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.79297,income_volatility_cv,-0.66752
+324,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.2169,avg_lookback_income,-0.68985
+1096,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.81589,income_trend_slope,0.54812
+605,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.9544,avg_lookback_income,-0.51386
+1146,Highly irregular income pattern,Strong average income relative to installment,income_volatility_cv,0.64425,avg_lookback_income,0.50984
+115,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-0.44405,income_trend_slope,0.36244
+1072,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.76509,avg_lookback_income,-1.15761
+220,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-2.03769,income_trend_slope,0.47636
+294,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-1.26128,income_trend_slope,-1.03723
+336,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-2.03758,avg_lookback_income,0.40466
+1086,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.45058,income_volatility_cv,-0.41261
+593,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.77216,income_volatility_cv,0.49215
+75,Income trending upward (positive signal),Low income activity in pre-loan period,income_trend_slope,0.54613,active_weeks_pre_loan,-0.28505
+142,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.22017,income_volatility_cv,-1.07487
+243,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,1.00363,avg_lookback_income,-0.32939
+114,High income activity in pre-loan period (positive signal),Modest loan size (positive signal),active_weeks_pre_loan,0.27813,loan_amount,-0.16974
+929,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.95468,avg_lookback_income,-0.47355
+828,Low income activity in pre-loan period,Income trending upward (positive signal),active_weeks_pre_loan,-0.32221,income_trend_slope,0.19526
+127,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.9677,avg_lookback_income,-0.5992
+903,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.59125,avg_lookback_income,-0.89159
+1260,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.93241,income_volatility_cv,0.66035
+921,Income trending upward (positive signal),Strong average income relative to installment,income_trend_slope,0.61078,avg_lookback_income,0.52181
+1261,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.84245,income_trend_slope,0.77928
+511,Strong average income relative to installment,Income trending upward (positive signal),avg_lookback_income,0.98525,income_trend_slope,0.64333
+610,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.66662,income_volatility_cv,-0.31841
+58,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.47828,avg_lookback_income,0.61719
+762,Low average income relative to installment,Highly irregular income pattern,avg_lookback_income,-0.29478,income_volatility_cv,0.27105
+951,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-0.39492,income_volatility_cv,0.38008
+153,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+621,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-1.16888,income_volatility_cv,-0.76225
+1018,Income trending upward (positive signal),Strong average income relative to installment,income_trend_slope,0.84405,avg_lookback_income,0.44083
+625,Income trending upward (positive signal),Low income activity in pre-loan period,income_trend_slope,0.62567,active_weeks_pre_loan,-0.30434
+1193,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.00215,income_volatility_cv,0.36246
+739,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-1.28196,income_volatility_cv,0.53103
+971,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.41716,income_trend_slope,0.29804
+1179,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.65479,avg_lookback_income,-0.60429
+261,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.30524,income_volatility_cv,-0.40395
+1272,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-1.11096,income_trend_slope,1.08128
+378,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.29832,income_volatility_cv,0.70603
+984,Strong average income relative to installment,Declining income trend before loan,avg_lookback_income,0.36257,income_trend_slope,-0.1844
+905,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-2.06218,income_volatility_cv,0.59726
+925,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.55435,income_volatility_cv,-0.42749
+222,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.47429,income_volatility_cv,-0.29454
+87,Income trending upward (positive signal),High income activity in pre-loan period (positive signal),income_trend_slope,0.67656,active_weeks_pre_loan,0.38519
+2,Low income activity in pre-loan period,Low average income relative to installment,active_weeks_pre_loan,-0.30222,avg_lookback_income,-0.29814
+611,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.68224,avg_lookback_income,-0.45801
+747,Declining income trend before loan,Highly irregular income pattern,income_trend_slope,-1.28053,income_volatility_cv,0.90298
+482,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.10743,income_volatility_cv,-0.4311
+1014,Stable income pattern (positive signal),Strong average income relative to installment,income_volatility_cv,-0.42407,avg_lookback_income,0.36628
+672,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-0.77604,avg_lookback_income,0.4267
+598,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,1.15733,income_volatility_cv,0.65353
+909,Strong average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,0.63466,income_volatility_cv,-0.06236
+44,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.91916,income_trend_slope,0.69726
+572,Low income activity in pre-loan period,Income trending upward (positive signal),active_weeks_pre_loan,-0.3103,income_trend_slope,0.27403
+614,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.58949,avg_lookback_income,-0.52434
+939,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.42134,income_volatility_cv,-0.23577
+744,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+907,High income activity in pre-loan period (positive signal),Income trending upward (positive signal),active_weeks_pre_loan,0.46051,income_trend_slope,0.45035
+1033,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.61187,avg_lookback_income,-0.34525
+861,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.63364,income_trend_slope,0.37696
+256,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,1.27228,income_volatility_cv,0.91375
+1232,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.94439,income_volatility_cv,0.76697
+742,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-0.9182,avg_lookback_income,0.38191
+602,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+717,Stable income pattern (positive signal),Strong average income relative to installment,income_volatility_cv,-0.71168,avg_lookback_income,0.5469
+743,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.58285,income_volatility_cv,-0.62142
+643,Income trending upward (positive signal),Modest loan size (positive signal),income_trend_slope,0.56523,loan_amount,-0.07221
+68,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,1.1266,income_trend_slope,0.40669
+1060,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+502,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.26893,income_volatility_cv,-0.37716
+1271,Income trending upward (positive signal),Strong average income relative to installment,income_trend_slope,0.44935,avg_lookback_income,0.18175
+589,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.0066,avg_lookback_income,-0.5309
+355,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.47877,avg_lookback_income,-0.85274
+154,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.46948,avg_lookback_income,-0.30928
+82,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.40961,avg_lookback_income,-0.22942
+972,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,1.09841,avg_lookback_income,-0.20666
+562,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.50803,avg_lookback_income,-1.03609
+1007,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.25918,avg_lookback_income,-0.50984
+729,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.61555,avg_lookback_income,-0.63137
+848,Declining income trend before loan,High income activity in pre-loan period (positive signal),income_trend_slope,-1.03395,active_weeks_pre_loan,0.23013
+741,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,0.77742,income_volatility_cv,0.67922
+627,Declining income trend before loan,High income activity in pre-loan period (positive signal),income_trend_slope,-1.80536,active_weeks_pre_loan,0.36784
+1199,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-0.5345,avg_lookback_income,-0.31619
+1035,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,0.58526,avg_lookback_income,-0.48545
+1043,Strong average income relative to installment,Declining income trend before loan,avg_lookback_income,0.57101,income_trend_slope,-0.48152
+292,Highly irregular income pattern,Income trending upward (positive signal),income_volatility_cv,0.93909,income_trend_slope,0.75763
+956,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+760,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-1.35281,income_trend_slope,0.96654
+375,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+22,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-2.66025,avg_lookback_income,-0.26065
+754,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.38434,avg_lookback_income,-0.72629
+854,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.98832,income_trend_slope,0.97273
+271,Strong average income relative to installment,Large loan relative to income capacity,avg_lookback_income,1.24133,loan_amount,0.28823
+1274,Income trending upward (positive signal),Highly irregular income pattern,income_trend_slope,1.00106,income_volatility_cv,0.80395
+692,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.76474,avg_lookback_income,-1.1439
+674,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.07559,avg_lookback_income,-0.58066
+361,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-2.15487,avg_lookback_income,-0.46886
+282,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,1.13141,income_volatility_cv,-0.61361
+1159,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-0.8012,avg_lookback_income,-0.76166
+326,Strong average income relative to installment,Income trending upward (positive signal),avg_lookback_income,0.61656,income_trend_slope,0.39943
+575,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.36357,income_volatility_cv,-0.44528
+228,Low average income relative to installment,Stable income pattern (positive signal),avg_lookback_income,-0.30506,income_volatility_cv,-0.25095
+889,Low average income relative to installment,Declining income trend before loan,avg_lookback_income,-0.75645,income_trend_slope,-0.52987
+1028,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.78012,income_trend_slope,0.46592
+1109,Stable income pattern (positive signal),Low average income relative to installment,income_volatility_cv,-1.93368,avg_lookback_income,-1.53128
+295,Strong average income relative to installment,Income trending upward (positive signal),avg_lookback_income,0.26559,income_trend_slope,0.13108
+94,Income trending upward (positive signal),Strong average income relative to installment,income_trend_slope,0.82085,avg_lookback_income,0.66564
+871,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.47495,avg_lookback_income,-0.90888
+687,Declining income trend before loan,Low average income relative to installment,income_trend_slope,-1.3683,avg_lookback_income,-0.50595
+1019,Low average income relative to installment,Income trending upward (positive signal),avg_lookback_income,-1.01982,income_trend_slope,0.20643
+104,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.89581,income_volatility_cv,-0.40504
+1240,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.7816,income_volatility_cv,-0.50275
+23,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.57087,income_trend_slope,0.35875
+1115,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-1.92379,income_volatility_cv,-1.0819
+546,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-1.51308,income_trend_slope,0.63317
+223,Declining income trend before loan,Low income activity in pre-loan period,income_trend_slope,-1.11541,active_weeks_pre_loan,-0.1652
+570,Declining income trend before loan,Stable income pattern (positive signal),income_trend_slope,-2.44986,income_volatility_cv,-0.34945
+865,Income trending upward (positive signal),Low average income relative to installment,income_trend_slope,1.06392,avg_lookback_income,-0.38928
+1120,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.31935,avg_lookback_income,0.5741
+10,Income trending upward (positive signal),Low income activity in pre-loan period,income_trend_slope,0.29844,active_weeks_pre_loan,-0.29176
+1171,Declining income trend before loan,Strong average income relative to installment,income_trend_slope,-1.42571,avg_lookback_income,1.03997
+1011,Stable income pattern (positive signal),Income trending upward (positive signal),income_volatility_cv,-0.64578,income_trend_slope,0.59877
+298,Income trending upward (positive signal),Stable income pattern (positive signal),income_trend_slope,0.91877,income_volatility_cv,-0.27099
